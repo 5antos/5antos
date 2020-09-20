@@ -1,4 +1,4 @@
-### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=5antos&bg_color=0,000000,000000&title_color=fff&text_color=fff&include_all_commits=true)
 
 <!--
 **5antos/5antos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
