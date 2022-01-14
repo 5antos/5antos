@@ -1,4 +1,4 @@
-### Howdy there! 👋
+### Hello there, traveller.
 
 I'm currently a third year informatics student who's been working with JavaScript, TypeScript, Java and PHP over the last year.
 
