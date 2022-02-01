@@ -14,3 +14,5 @@ The main projects that I've been working on are [PT.FM](https://top.gg/bot/76750
     </td>
   </tr>
 </table>
+
+[![5antos' github activity graph](https://activity-graph.herokuapp.com/graph?username=5antos&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
